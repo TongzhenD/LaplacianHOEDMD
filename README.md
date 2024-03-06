@@ -1,5 +1,6 @@
 # LaplacianHOEDMD
- This project is the code of an efficient implementation for the Laplacian HOEDMD method and some experiments.
+This project is the code of an efficient implementation for the Laplacian HOEDMD method and some experiments.
+
 The hoedmd_stls.m is the code for the pth-order extended dynamic mode decomposition based on the structured total least squares proposed in the paper [1]. The first two subsections of our experiments were performed by this implementation.
 
 The hoedmd_gram.m is the code for the efficient implementation of Laplacian HOEDMD based on the Gram matrix (Algorithm 1 in our paper).
